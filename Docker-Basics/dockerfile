@@ -1,0 +1,2 @@
+FROM alpine 
+CMD ["echo", "Hello, rajeev! My first container works...."]
